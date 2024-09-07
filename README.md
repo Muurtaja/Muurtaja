@@ -1,3 +1,7 @@
+> **Warning:** <span style="color: red;">This is an old and test readme. I will be updating it soon. Stay tuned for more!</span>
+
+In the meantime, you can visit my [https://murtaja.com](https://murtaja.com) to learn more about me and my latest projects.
+
 # 💫 About Me:
 Ask me about PHP and blockchain development
 
