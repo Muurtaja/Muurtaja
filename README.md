@@ -13,12 +13,12 @@ Building scalable backend systems, reliable APIs, and integration-heavy SaaS pla
 
 ## 👨‍💻 About Me
 
-- 🔧 Senior Software Engineer specializing in **PHP & Laravel backend systems**  
-- 🚀 Built and maintained multiple **production SaaS and management platforms**  
+- 🔧 **Senior Software Engineer specializing in PHP & Laravel backend systems**  
+- 🚀 Built and maintained **multiple production SaaS and management platforms**  
 - 🔗 Strong focus on **REST APIs, third-party integrations, and performance optimization**  
-- 🧠 Experienced in mentoring developers and maintaining **production systems**  
-- 🧩 Comfortable working across the stack when needed (React, Blade, jQuery)  
-- 🌍 Based in Dhaka, Bangladesh  
+- 🧠 Experienced in **mentoring developers and maintaining production systems**  
+- 🧩 Comfortable working across the stack when needed (**React, Blade, jQuery**)  
+- 🌍 Based in **Dhaka, Bangladesh**  
 
 📌 **Portfolio:** https://murtaja.com  
 📌 **LinkedIn:** https://linkedin.com/in/muurtaja  
@@ -35,10 +35,10 @@ Building scalable backend systems, reliable APIs, and integration-heavy SaaS pla
 - Laravel Queues & Background Jobs  
 - Cron Jobs & Scheduled Tasks  
 - OAuth & Authentication  
-- Payment Gateway Integration  
-- Third-Party API Integrations  
+- **Payment Gateway Integration**  
+- **Third-Party API Integrations**  
 - Caching Strategies  
-- File Storage (FTP, AWS S3 & S3-compatible)  
+- File Storage (AWS S3 & S3-compatible)  
 
 ### 🔹 Frontend (Supporting)
 
@@ -63,6 +63,8 @@ Building scalable backend systems, reliable APIs, and integration-heavy SaaS pla
 - SaaS and product-driven systems  
 - Performance and reliability improvements  
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -71,4 +73,4 @@ Building scalable backend systems, reliable APIs, and integration-heavy SaaS pla
 
 ---
 
-<p align="center">❤️ From Murtaja</p>
+<p align="center">❤️ From Muurtaja</p>
