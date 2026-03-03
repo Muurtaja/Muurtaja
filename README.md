@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Murtaja Ahmed Noyeem</h1>
-<h3 align="center">Senior Software Engineer • Backend Focus (PHP & Laravel)</h3>
+<h3 align="center">Software Development Engineer • Backend Focus (PHP & Laravel)</h3>
 
 <p align="center">
 Building scalable backend systems, reliable APIs, and integration-heavy SaaS platforms.
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muurtaja&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Muurtaja.Muurtaja" alt="visitors"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔧 **Senior Software Engineer specializing in PHP & Laravel backend systems**  
+- 🔧 **Software Development Engineer specializing in PHP & Laravel backend systems**  
 - 🚀 Built and maintained **multiple production SaaS and management platforms**  
 - 🔗 Strong focus on **REST APIs, third-party integrations, and performance optimization**  
 - 🧠 Experienced in **mentoring developers and maintaining production systems**  
